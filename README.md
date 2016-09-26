@@ -2,6 +2,7 @@
 :sunglasses: My curated list of awesome repos.
 
 ## Contents
+- [Development](#development)
 - [C/C++](#cc)
 - [C sharp](#c-sharp)
 - [Go](#go)
@@ -29,6 +30,10 @@
 - [wjakob/nanogui](https://github.com/wjakob/nanogui) - Minimalistic GUI library for OpenGL
 - [memononen/nanovg](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.
 
+### Mathematics
+- [g-truc/glm](https://github.com/g-truc/glm) - OpenGL Mathematics (GLM)
+- [juj/MathGeoLib](https://github.com/juj/MathGeoLib) - A C++ library for linear algebra and geometry manipulation for computer graphics.
+
 ### JSON
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [dropbox/json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
@@ -40,7 +45,6 @@
 - [vurtun/mmx](https://github.com/vurtun/mmx) - single header libraries for C/C++
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [google/liquidfun](https://github.com/google/liquidfun) - 2D physics engine for games
-- [juj/MathGeoLib](https://github.com/juj/MathGeoLib) - A C++ library for linear algebra and geometry manipulation for computer graphics.
 
 ## C sharp
 - [xanathar/moonsharp](https://github.com/xanathar/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.

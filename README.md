@@ -45,6 +45,7 @@
 - [vurtun/mmx](https://github.com/vurtun/mmx) - single header libraries for C/C++
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [google/liquidfun](https://github.com/google/liquidfun) - 2D physics engine for games
+- [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization
 
 ## C sharp
 - [xanathar/moonsharp](https://github.com/xanathar/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.

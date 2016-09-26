@@ -49,6 +49,7 @@
 
 ## C sharp
 - [xanathar/moonsharp](https://github.com/xanathar/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
+- [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV
 
 ## Go
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.

@@ -14,7 +14,7 @@
 - [Reference](#reference)
 - [Documents](#documents)
 - [Other](#other)
-- [Awesome](#awesome)
+- [Awesome Lists](#awesome-lists)
 
 ## Development
 - [mogemimi/oh-my-gyp](https://github.com/mogemimi/oh-my-gyp) - A set of GYP (Generate Your Projects) configs in the public domain
@@ -118,7 +118,7 @@
 - [juju2143/flufflepuff](https://github.com/juju2143/flufflepuff) - Fluffle Puff Programming Language
 - [darkomeme/as3-class-generator](https://github.com/darkomeme/as3-class-generator) - Open Source ActionScript3 Utility library to generate a class instance from JSON.
 
-## Awesome
+## Awesome Lists
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [thibmaek/awesome-raspberrypi](https://github.com/thibmaek/awesome-raspberrypi) - A curated list of awesome Raspberry Pi tools, projects, images and resources

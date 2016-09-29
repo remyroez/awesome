@@ -24,6 +24,7 @@
 ### Game Framework
 - [i8degrees/nomlib](https://github.com/i8degrees/nomlib) - C++11 2D game framework using SDL2
 - [Rapptz/gum](https://github.com/Rapptz/gum) - Thin C++11 SDL 2 wrapper with other nice things.
+- [libSDL2pp/libSDL2pp](https://github.com/libSDL2pp/libSDL2pp) - C++11 bindings/wrapper for SDL2
 
 ### GUI
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
@@ -40,12 +41,16 @@
 - [kazuho/picojson](https://github.com/kazuho/picojson) - a header-file-only, JSON parser serializer in C++
 - [tristanpenman/valijson](https://github.com/tristanpenman/valijson) - Header-only C++ library for JSON Schema validation
 
-### Libs
+### Libraries
 - [electronicarts/EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
 - [vurtun/mmx](https://github.com/vurtun/mmx) - single header libraries for C/C++
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+- [bolero-MURAKAMI/Sprout](https://github.com/bolero-MURAKAMI/Sprout) - C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.
+
+### Miscs
 - [google/liquidfun](https://github.com/google/liquidfun) - 2D physics engine for games
 - [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization
+- [wmcbrine/PDCurses](https://github.com/wmcbrine/PDCurses) - Public Domain Curses - a curses library for environments that don't fit the termcap/terminfo model.
 
 ## C sharp
 - [xanathar/moonsharp](https://github.com/xanathar/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
@@ -80,6 +85,7 @@
 - [krkrz/krkrz](https://github.com/krkrz/krkrz) - Kirikiri Z Project
 - [elmindreda/Nori](https://github.com/elmindreda/Nori) - A simple game engine
 - [EasyRPG/Player](https://github.com/EasyRPG/Player) - RPG Maker 2000/2003 and EasyRPG games interpreter
+- [ericoporto/fgmk](https://github.com/ericoporto/fgmk) - Retro RPG Game Maker
 
 ## Game
 - [deathcap/voxelmetaverse](https://github.com/deathcap/voxelmetaverse) - playing with voxel.js
@@ -117,6 +123,8 @@
 ## Documents
 - [azu/awesome-commit-english](https://github.com/azu/awesome-commit-english) - コミット英語についての記事まとめ
 - [json-schema/json-schema](https://github.com/json-schema/json-schema) - JSON Schema specifications
+- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
+- [ssloy/glsltuto](https://github.com/ssloy/glsltuto) - GLSL shaders tutorial
 
 ## Other
 - [FreeCodeCamp/FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.

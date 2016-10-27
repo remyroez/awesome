@@ -21,10 +21,18 @@
 - [mogemimi/oh-my-gyp](https://github.com/mogemimi/oh-my-gyp) - A set of GYP (Generate Your Projects) configs in the public domain
 
 ## C/C++
-### Game Framework
+
+### Multimedia
+
+#### SDL
 - [i8degrees/nomlib](https://github.com/i8degrees/nomlib) - C++11 2D game framework using SDL2
 - [Rapptz/gum](https://github.com/Rapptz/gum) - Thin C++11 SDL 2 wrapper with other nice things.
 - [libSDL2pp/libSDL2pp](https://github.com/libSDL2pp/libSDL2pp) - C++11 bindings/wrapper for SDL2
+- [gabomdq/SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
+
+#### Framework
+- [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
+- [liballeg/allegro5](https://github.com/liballeg/allegro5) - The official Allegro 5 git repository. Pull requests welcome!
 
 ### GUI
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
@@ -46,23 +54,34 @@
 - [vurtun/mmx](https://github.com/vurtun/mmx) - single header libraries for C/C++
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [bolero-MURAKAMI/Sprout](https://github.com/bolero-MURAKAMI/Sprout) - C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.
+- [Bloodknight/SmallLibraries](https://github.com/Bloodknight/SmallLibraries) - Collection of small C/C++ libraries
+- [DanielGibson/Snippets](https://github.com/DanielGibson/Snippets) - (Hopefully) useful code snippets and header-only libs
 
 ### Miscs
 - [google/liquidfun](https://github.com/google/liquidfun) - 2D physics engine for games
 - [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization
 - [wmcbrine/PDCurses](https://github.com/wmcbrine/PDCurses) - Public Domain Curses - a curses library for environments that don't fit the termcap/terminfo model.
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+- [alembic/alembic](https://github.com/alembic/alembic) - Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications.
+- [ar90n/msgpack11](https://github.com/ar90n/msgpack11) - A tiny MessagePack library for C++11 (msgpack.org[C++11])
+- [gitter-badger/cpp-starter-kit](https://github.com/gitter-badger/cpp-starter-kit) - Boilerplate to get a multiplatform, travis-enabled, googletest/googlemock application going in C++.
 
 ## C sharp
 - [xanathar/moonsharp](https://github.com/xanathar/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
 - [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - .NET Framework wrapper for OpenCV
 
+## Python
+- [google/budou](https://github.com/google/budou) - Automatic Japanese line breaking tool
+
 ## Go
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
+- [mattn/travis-line-notify](https://github.com/mattn/travis-line-notify) - Notify build result on Travis CI via LINE Notify
 
 ## Javascript
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
+- [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - :package::cat2: Fast, reliable, and secure dependency management.
 
 ## Unity3d
 - [unity3d-jp/FirstTutorial](https://github.com/unity3d-jp/FirstTutorial)
@@ -76,6 +95,9 @@
 - [kyubuns/Kuchen](https://github.com/kyubuns/Kuchen) - Pub/Sub for Unity
 - [ToshiyasuMiyabe/P-MAP](https://github.com/ToshiyasuMiyabe/P-MAP)
 - [keijiro/unity-shader-bundle](https://github.com/keijiro/unity-shader-bundle) - Shows how to use a 'common-bundle', to avoid shader compilations.
+- [hecomi/uRaymarching](https://github.com/hecomi/uRaymarching) - Raymarching Shader Generator in Unity
+- [Unity-Technologies/PostProcessing](https://github.com/Unity-Technologies/PostProcessing) - Post Processing Stack
+- [mattatz/unity-teddy](https://github.com/mattatz/unity-teddy) - Teddy algorithm implementation in Unity.
 
 ## Game Engine
 - [CRYTEK-CRYENGINE/CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - CRYENGINE is a powerful real-time game development platform created by Crytek.
@@ -91,6 +113,7 @@
 - [deathcap/voxelmetaverse](https://github.com/deathcap/voxelmetaverse) - playing with voxel.js
 - [JIghtuse/cavestory-sdl2](https://github.com/JIghtuse/cavestory-sdl2) - Reconstructing Cave Story with SDL 2.0 and C++11
 - [clintbellanger/heroine-dusk](https://github.com/clintbellanger/heroine-dusk) - April OneGameAMonth WIP dungeon crawl game
+- [sairoutine/faithjs](https://github.com/sairoutine/faithjs) - FaithJS is a NES emulator which runs on your chrome.
 
 ## Tool
 - [motemen/ghq](https://github.com/motemen/ghq) - Remote repository management made easy
@@ -105,6 +128,9 @@
 - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [kripken/emscripten](https://github.com/kripken/emscripten) - Emscripten: An LLVM-to-JavaScript Compiler
 - [mustache/mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
+- [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
+- [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+- [akameco/PixivDeck](https://github.com/akameco/PixivDeck) - :two_hearts: :two_hearts: pixiv client for Desktop like TweetDeck :two_hearts: :two_hearts:
 
 ## Web
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
@@ -125,6 +151,8 @@
 - [json-schema/json-schema](https://github.com/json-schema/json-schema) - JSON Schema specifications
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - Support c++ code for a short computer graphics course
 - [ssloy/glsltuto](https://github.com/ssloy/glsltuto) - GLSL shaders tutorial
+- [hatena/Hatena-Textbook-JavaScript](https://github.com/hatena/Hatena-Textbook-JavaScript) - はてな研修用JavaScript教科書
+- [asciidwango/js-primer](https://github.com/asciidwango/js-primer) - JavaScriptの入門書 :book:
 
 ## Other
 - [FreeCodeCamp/FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.

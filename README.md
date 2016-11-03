@@ -19,6 +19,8 @@
 
 ## Development
 - [mogemimi/oh-my-gyp](https://github.com/mogemimi/oh-my-gyp) - A set of GYP (Generate Your Projects) configs in the public domain
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
+- [gitter-badger/cpp-starter-kit](https://github.com/gitter-badger/cpp-starter-kit) - Boilerplate to get a multiplatform, travis-enabled, googletest/googlemock application going in C++.
 
 ## C/C++
 
@@ -56,6 +58,7 @@
 - [bolero-MURAKAMI/Sprout](https://github.com/bolero-MURAKAMI/Sprout) - C++11/14 constexpr based Containers, Algorithms, Random numbers, Parsing, Ray tracing, Synthesizer, and others.
 - [Bloodknight/SmallLibraries](https://github.com/Bloodknight/SmallLibraries) - Collection of small C/C++ libraries
 - [DanielGibson/Snippets](https://github.com/DanielGibson/Snippets) - (Hopefully) useful code snippets and header-only libs
+- [okdshin/unique_resource](https://github.com/okdshin/unique_resource) - unique_resource, The General RAII Wrapper for Exclusive Ownership Resource Management.
 
 ### Miscs
 - [google/liquidfun](https://github.com/google/liquidfun) - 2D physics engine for games
@@ -64,7 +67,6 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
 - [alembic/alembic](https://github.com/alembic/alembic) - Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications.
 - [ar90n/msgpack11](https://github.com/ar90n/msgpack11) - A tiny MessagePack library for C++11 (msgpack.org[C++11])
-- [gitter-badger/cpp-starter-kit](https://github.com/gitter-badger/cpp-starter-kit) - Boilerplate to get a multiplatform, travis-enabled, googletest/googlemock application going in C++.
 
 ## C sharp
 - [xanathar/moonsharp](https://github.com/xanathar/moonsharp) - An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.
@@ -131,6 +133,7 @@
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
 - [akameco/PixivDeck](https://github.com/akameco/PixivDeck) - :two_hearts: :two_hearts: pixiv client for Desktop like TweetDeck :two_hearts: :two_hearts:
+- [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## Web
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
